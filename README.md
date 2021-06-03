@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit
+- 👋 Hi, I’m Amit, (Android Dev)
 - 👀 I’m interested in playing cricket, basketball and with the code.
 - 🌱 I’m currently learning flutter (Dart).
 - 💞️ I’m looking to collaborate on Android Applications
