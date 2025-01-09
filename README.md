@@ -2,4 +2,4 @@
 - 👀 I’m interested in playing cricket, basketball and with the code.
 - 🌱 I’m currently developing flutter apps(Dart).
 - 💞️ I’m looking to collaborate on Android Applications
-- 📫 You can reach me @ https://www.facebook.com/itsamit29/
+- 📫 You can reach me @ https://www.linkedin.com/in/amit-saini-03267b10a
